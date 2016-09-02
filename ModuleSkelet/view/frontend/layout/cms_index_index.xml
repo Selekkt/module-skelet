@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="sidebar.main">
+            <block class="Selekkt\ModuleSkelet\Block\CategorisCollection" name="moduleskelet" template="Selekkt_ModuleSkelet::skelet.phtml"/>
+        </referenceContainer>
+    </body>
+</page>
