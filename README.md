@@ -13,8 +13,8 @@ Install ModuleSkelet for Magento2
 #####Using Composer
 
 ```
-composer config repositories.selekkt-moduleskelet git git@github.com:selekkt/moduleskelet.git
-composer require selekkt/moduleskelet
+composer config repositories.selekkt-module-skelet git git@github.com:selekkt/module-skelet.git
+composer require selekkt/module-skelet
 ```
 
 ####2 -  Enable ModuleSkelet
